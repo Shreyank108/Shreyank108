@@ -1,51 +1,30 @@
-<h1 align="center">Hi, I'm Shreyank Agrawal 👋</h1>
-<h3 align="center">🚀 Full Stack Dev | ML Enthusiast | Mentor | UI Designer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6556CD&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Shreyank+Agrawal;Full+Stack+Developer+💻;ML+%7C+DL+%7C+UI%2FUX+Designer+%7C+Mentor" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyankagrawal&label=Visitors&color=6556CD&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shreyankagrawal&label=Profile%20views&color=6556CD&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
+## ⚒️ Tech Toolbox (Animated)
 
-- 🎯 Solo Hackathon Winner (Multiple Times)
-- 🏅 Academic Topper | Star Student of the College
-- 🧑‍💼 Ex-President – R&D + Coding Club, SIRT
-- 👨‍🏫 Mentored over **500+ students** in Python & Web Dev
-- 🎨 Passionate UI/UX Designer (GSAP, Locomotive, Matter.js)
+<div align="center" style="background-color:#0d0d0d; border-radius:15px; padding:20px; box-shadow:0 0 15px rgba(101,86,205,0.4);">
 
----
+![Skills](https://github-production-user-asset-6210df.s3.amazonaws.com/89194366/284202564-ff90ff93-52d7-48a7-8cc4-193c18b3396a.png)
 
-### ⚒️ Tech Stack
-
-<div align="center">
-  
-| Programming | Frontend | Backend | Database | AI/ML | Tools |
-|-------------|----------|---------|----------|--------|-------|
-| `C++`, `Python`, `JavaScript` | `React`, `Tailwind`, `HTML`, `CSS` | `Node.js`, `Express.js` | `MongoDB`, `Mongoose` | `TensorFlow`, `CNN`, `TFLite` | `Git`, `VS Code`, `Figma` |
+<!-- replace above image with your own hosted skillbox if needed -->
 
 </div>
 
 ---
 
-### 📊 GitHub Summary (Compact)
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyankagrawal&show_icons=true&theme=radical&hide_border=true&hide=prs,issues" height="140"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyankagrawal&theme=radical&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyankagrawal&layout=compact&theme=radical&hide_border=true&langs_count=8" height="140"/>
-
-</div>
-
----
-
-### 🏆 Achievements & Roles
+## 🏆 Achievements
 
 ```txt
-🌟 Solo Hackathon Winner (Multiple National Events)
-🎓 College Topper in Academics
-🧠 Ex-President – Research & Dev + Coding Club
-🔥 Mentored 500+ Students – Python, Frontend
-🎨 UI/UX Designer with GSAP & 3D CSS effects
+🎯 Solo Hackathon Winner – Multiple Times  
+🎓 Academic Topper & Star Student – SIRT Bhopal  
+🧑‍💼 Ex-President – R&D and Coding Club  
+👨‍🏫 Mentored 500+ Students – Python + Web Dev  
+🎨 UI/UX Designer – GSAP | Locomotive | Matter.js

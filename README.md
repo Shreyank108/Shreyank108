@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Shreyank Agrawal</h1>
-<h3 align="center">AI/ML Enthusiast | MERN Stack Dev | UI/UX Designer | Mentor</h3>
+<h1 align="center">Namste 🐦‍🔥, I'm Shreyank Agrawal</h1>
+<h3 align="center">AI/ML Enthusiast | MERN Stack Dev | UI/UX Designer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=I'm+a+Fullstack+Developer;I'm+a+UI%2FUX+Designer;I'm+into+ML+%7C+DL+%7C+AI;I+love+building+with+code" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 Tech Toolbox (Animated)
+### 🧠 My comfort zone 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,react,mongodb,mysql,express,tailwind,figma,git,github,linux,vscode,vercel,postman,firebase,mongoose,tensorflow,pytorch,opencv" />
 </p>
@@ -22,7 +22,7 @@
 🎓 Academic Topper & Star Student – SIRT Bhopal
 🧑‍💼 Ex-President – R&D and Coding Club
 👨‍🏫 Mentored 500+ Students – Python + Web Dev
-🎨 UI/UX Designer – GSAP | Locomotive | Matter.js
+🎨 UI/UX Designer – GSAP | Locomotive | Matter.js | Scroll-Trigger | Framer Motion
 ```
 
 ---
